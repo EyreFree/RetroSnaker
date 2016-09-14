@@ -1,4 +1,4 @@
-# RetroSnaker
-Ì°³ÔÉß£¬¿ØÖÆÌ¨°æ£¬CÓïÑÔ
+# Retro Snaker
+è´ªåƒè›‡ï¼Œæ§åˆ¶å°ç‰ˆï¼ŒCè¯­è¨€
 
 ![](assets/screenshot2.jpg)
